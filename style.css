@@ -1,0 +1,13 @@
+#circle{
+    margin: 100px;
+    background: red;
+    width: 102px;
+    height: 102px;
+    border-radius: 50%;
+}
+
+.segment{
+    width: 100px;
+    position: absolute;
+    margin-top: 42px;
+}
